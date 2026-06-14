@@ -1,7 +1,7 @@
 # 👨🏼‍💻🖥️ Cicero Eduardo
 **`Desenvolvedor Full Stack`**
 
-Me chamo Cicero Eduardo, tenho 19 anos e sou natural de São Paulo capital. Concluí o meu ensino médio da ETESP (Etec de São Paulo), com o curso técnico em Desenvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na UNICAMP. Sou apaixonado por tecnologia e quero muito ingressar na área para poder colocar os meus conhecimentos em prática com projetos desafiadores e contribuir ao máximo com a minha equipe. 
+Me chamo Cicero Eduardo, tenho 20 anos e sou natural de São Paulo capital. Concluí o meu ensino médio da ETESP (Etec de São Paulo), com o curso técnico em Desenvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação na UNICAMP, estando no 3º semestre da graduação de 8. Sou apaixonado por tecnologia e quero muito ingressar na área para poder colocar os meus conhecimentos em prática com projetos desafiadores e contribuir ao máximo com a minha equipe. 
 
 ---
 ### 🤖 Linguagens e Tecnologias
